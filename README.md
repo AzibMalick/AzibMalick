@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Azib%20Malick&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20→%20Data%20Scientist&descAlignY=58&descColor=ffffff" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1800&color=1D9E75&center=true&vCenter=true&width=520&lines=Healthcare+ML+%7C+Python+%7C+XGBoost;NED+University+%C2%B7+Class+of+2026;Open+to+Data+Analyst+%26+DS+roles;Biomedical+Engineer+%E2%86%92+Data+Scientist" alt="Typing SVG" />
 
 <br/>
@@ -17,20 +15,18 @@
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=AzibMalick&style=for-the-badge&color=1D9E75)
-
 </div>
 
 ---
 
 ## 🧬 About me
 
-🎓 Final year **Biomedical Engineering** student at NED University (2026)  
-📍 Karachi, Pakistan  
-🏥 Interned at **JPMC** and **Abbasi Shaheed Hospital** — I understand clinical data, not just code  
-🤖 Building ML models that solve real healthcare problems  
-🎯 Open to **Data Analyst** and **Junior Data Scientist** roles  
+🎓 Final year **Biomedical Engineering** student at NED University (2026)
+📍 Karachi, Pakistan
+🏥 Interned at **JPMC** and **Abbasi Shaheed Hospital** — I understand clinical data, not just code
+🤖 Building ML models that solve real healthcare problems
+🎯 Open to **Data Analyst** and **Junior Data Scientist** roles
 📧 azibmalick25@gmail.com
-```
 
 ---
 
@@ -58,8 +54,8 @@
 ## 📊 GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AzibMalick&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzibMalick&layout=compact&hide_border=true&title_color=1D9E75" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AzibMalick&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzibMalick&layout=compact&hide_border=true&title_color=1D9E75&cache_seconds=1800" height="150"/>
 </div>
 
 ---
