@@ -24,15 +24,12 @@
 
 ## 🧬 About me
 
-```python
-azib = {
-    "role":       "Biomedical Engineer → Data Scientist",
-    "university": "NED University of Engineering & Technology (2026)",
-    "location":   "Karachi, Pakistan 🇵🇰",
-    "focus":      "Healthcare ML — where wrong predictions have real consequences",
-    "hospitals":  ["JPMC Karachi", "Abbasi Shaheed Hospital"],
-    "open_to":    ["Data Analyst", "Junior Data Scientist", "Healthcare AI roles"]
-}
+🎓 Final year **Biomedical Engineering** student at NED University (2026)  
+📍 Karachi, Pakistan  
+🏥 Interned at **JPMC** and **Abbasi Shaheed Hospital** — I understand clinical data, not just code  
+🤖 Building ML models that solve real healthcare problems  
+🎯 Open to **Data Analyst** and **Junior Data Scientist** roles  
+📧 azibmalick25@gmail.com
 ```
 
 ---
