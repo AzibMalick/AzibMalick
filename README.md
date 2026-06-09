@@ -22,10 +22,15 @@
 ## 🧬 About me
 
 🎓 Final year **Biomedical Engineering** student at NED University (2026)
+
 📍 Karachi, Pakistan
+
 🏥 Interned at **JPMC** and **Abbasi Shaheed Hospital** — I understand clinical data, not just code
+
 🤖 Building ML models that solve real healthcare problems
+
 🎯 Open to **Data Analyst** and **Junior Data Scientist** roles
+
 📧 azibmalick25@gmail.com
 
 ---
