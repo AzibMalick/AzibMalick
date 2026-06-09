@@ -63,7 +63,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azibmalick-4561b12bb/)
-[![Email](https://img.shields.io/badge/Email-azibmalick27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azibmalick27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-azibmalick25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azibmalick27@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
 
